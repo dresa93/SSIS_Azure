@@ -1,0 +1,9 @@
+{
+	"name": "Azure-SSIS1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "265298de-e12f-41eb-9381-c7ac472d3479",
+		"tenantId": "c7eb2642-7f01-4394-b32a-772288a5990a"
+	}
+}
